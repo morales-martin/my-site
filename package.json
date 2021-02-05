@@ -1,6 +1,5 @@
 {
   "name": "martins_site",
-  "homepage": "http://morales-martin.github.io/my-site",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
