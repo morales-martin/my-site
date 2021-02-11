@@ -6,9 +6,9 @@ import {Button} from './Button';
 function HeroSection() {
     return (
         <div className='hero-container'>
-            <video src='../videos/mm_splashpage.mp4' autoPlay loop muted /> 
-            <h1>ADVENTURE AWAITS</h1>
-            <p>What are you waiting for?</p>
+            <video src='./videos/mm_splashpage.mp4' autoPlay loop muted /> 
+            <h1>Hi, I'm Martin Morales</h1>
+            <p>Welcome to my website</p>
             <div className="hero-btns">
                 <Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>
                     GET STARTED
