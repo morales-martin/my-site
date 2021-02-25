@@ -20,7 +20,7 @@
 }
 
 .work-experience {
-  background-image: url("pictures/work-experience_bg.jpg");
+  background-image: url("/pictures/work-experience_bg.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -29,7 +29,7 @@
 }
 
 .education {
-  background-image: url('./pictures/education_bg.jpg');
+  background-image: url('/pictures/education_bg.jpg');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -38,7 +38,7 @@
 }
 
 .hobbies {
-  background-image: url("pictures/hobbies_bg.jpg");
+  background-image: url("/pictures/hobbies_bg.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -47,7 +47,7 @@
 }
 
 .volunteer {
-  background-image: url("pictures/volunteer_bg.jpg");
+  background-image: url("/pictures/volunteer_bg.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -56,7 +56,7 @@
 }
 
 .accomplishments {
-  background-image: url("pictures/accomplishments_bg.jpg");
+  background-image: url("/pictures/accomplishments_bg.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -65,7 +65,7 @@
 }
 
 .contact-me {
-  background-image: url("pictures/contact-me_bg.jpg");
+  background-image: url("/pictures/contact-me_bg.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
